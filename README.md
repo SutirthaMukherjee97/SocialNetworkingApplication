@@ -8,7 +8,7 @@ A realtime implementation of a chat application leveraging  [Node.js](https://no
 
 ## Installation
 
-The code for the chat app can be found at the public [GitHub](https://github.com/) repo [https://github.com/owanhunte/nodejs-chat-app](https://github.com/owanhunte/nodejs-chat-app). Either clone the repo to a local folder on your machine or download and extract the archive if you don't have [Git](https://git-scm.com/) installed.
+This code may be found at the following source: [GitHub](https://github.com/) repo [https://github.com/github.com/SutirthaMukherjee97/SocialNetworkingApplication](https://github.com/SutirthaMukherjee97/SocialNetworkingApplication). Either clone the repo to a local folder on your machine or download and extract the archive if you don't have [Git](https://git-scm.com/) installed.
 
 Open a terminal window session, or the equivalent on your machine, and enter the following command to install all the Node modules needed to run the app:
 
