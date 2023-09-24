@@ -1,4 +1,4 @@
-# LetsSee Chat App
+# LetsSee App
 
 A realtime implementation of a chat application leveraging  [Node.js](https://nodejs.org/), [Express.js](https://expressjs.com/) and [Socket.io](https://socket.io/).
 
